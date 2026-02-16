@@ -28,7 +28,6 @@ stopwatch = core.Clock()
 win = visual.Window(monitor=my_monitor, units='deg', fullscr=True, allowGUI=False, color='black')
 
 stim_fix = visual.TextStim(win, '+')
-
 """
 Stimuli section
 """
